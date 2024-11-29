@@ -4,4 +4,4 @@
 - José Agustín Mendoza Ureña
 
 ### Tema del proyecto:
-Tienda de Videojuegos
+Tienda de Videojuegos (Física)
